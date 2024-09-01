@@ -24,7 +24,7 @@ The website uses a unique color scheme inspired by the Juicy Light Green palette
 
 ## Hosting
 
-The website is hosted on [Netlify](https://www.netlify.com/) (or [Vercel](https://vercel.com/)).
+The website is hosted on [Netlify](https://juice-center.netlify.app/) 
 
 ## License
 
